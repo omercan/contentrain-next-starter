@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "slider"
+  },
+  {
+    "name": "jsonObject",
+    "fieldId": "jsonobject",
+    "modelId": "slider",
+    "componentId": "json",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
